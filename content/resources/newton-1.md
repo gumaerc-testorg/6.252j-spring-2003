@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 642eb344-27b0-eb3b-f117-628683495484
 resourcetype: Other
 title: newton.fortran
 uid: 70ab0ab3-cf77-29a3-fff8-c58de1f20151

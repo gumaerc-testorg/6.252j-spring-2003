@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 642eb344-27b0-eb3b-f117-628683495484
 resourcetype: Document
 title: newton.pdf
 uid: c634cc25-fd0e-a9fd-3616-f828374e96bc

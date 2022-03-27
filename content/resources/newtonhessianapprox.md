@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 642eb344-27b0-eb3b-f117-628683495484
 resourcetype: Other
 title: newtonhessianApprox.fortran
 uid: 1a9321a7-bae0-1f79-e47d-95667e2303c7
