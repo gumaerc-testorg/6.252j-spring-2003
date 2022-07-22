@@ -5,6 +5,7 @@ file: /courses/6-252j-nonlinear-programming-spring-2003/a42fa0522f4cffc3d82fb36a
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: newton_hessianApprox.fortran
 uid: a42fa052-2f4c-ffc3-d82f-b36a6f05bf9d
 ---
 Sample calling program for newton (written in Fortran).
-

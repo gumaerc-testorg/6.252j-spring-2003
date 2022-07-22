@@ -5,6 +5,7 @@ file: /courses/6-252j-nonlinear-programming-spring-2003/c634cc25fd0ea9fd3616f828
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: newton.pdf
 uid: c634cc25-fd0e-a9fd-3616-f828374e96bc
 ---
 Tools: newton
-

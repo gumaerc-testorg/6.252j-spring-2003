@@ -5,6 +5,7 @@ file: /courses/6-252j-nonlinear-programming-spring-2003/70ab0ab3cf7729a3fff8c58d
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: newton.fortran
 uid: 70ab0ab3-cf77-29a3-fff8-c58de1f20151
 ---
 SAMPLE CALLING PROGRAM FOR NEWTON (Written in FORTRAN)
-

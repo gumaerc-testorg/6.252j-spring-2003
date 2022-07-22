@@ -5,6 +5,7 @@ file: /courses/6-252j-nonlinear-programming-spring-2003/1a9321a7bae01f79e47d9566
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: newtonhessianApprox.fortran
 uid: 1a9321a7-bae0-1f79-e47d-95667e2303c7
 ---
 SAMPLE CALLING PROGRAM FOR NEWTON.  (Written in FORTRAN)
-
