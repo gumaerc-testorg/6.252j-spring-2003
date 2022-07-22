@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section contains homework assignments for the course, which consist
+  of problems from the course textbook, Nonlinear Programming: 2nd Edition, by Dimitri
+  Bertsekas.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a7fc8d07-daf1-74b5-f69e-69638dc6d97d
 ---
