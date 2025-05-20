@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample calling program for newton (written in Fortran).
-file: /ol-ocw-studio-app/courses/6-252j-nonlinear-programming-spring-2003/a42fa0522f4cffc3d82fb36a6f05bf9d_newton_hessianApprox.fortran
+file: /courses/6-252j-nonlinear-programming-spring-2003/a42fa0522f4cffc3d82fb36a6f05bf9d_newton_hessianApprox.fortran
 file_size: 11437
 file_type: application/octet-stream
 learning_resource_types:
