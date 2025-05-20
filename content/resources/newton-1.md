@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SAMPLE CALLING PROGRAM FOR NEWTON (Written in FORTRAN)
-file: /ol-ocw-studio-app/courses/6-252j-nonlinear-programming-spring-2003/70ab0ab3cf7729a3fff8c58de1f20151_newton.fortran
+file: /courses/6-252j-nonlinear-programming-spring-2003/70ab0ab3cf7729a3fff8c58de1f20151_newton.fortran
 file_size: 11437
 file_type: application/octet-stream
 learning_resource_types:
