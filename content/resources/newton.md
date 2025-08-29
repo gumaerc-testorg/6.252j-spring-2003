@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Tools: newton'
-file: /courses/6-252j-nonlinear-programming-spring-2003/c634cc25fd0ea9fd3616f828374e96bc_newton.pdf
+file: /ol-ocw-studio-app/courses/6-252j-nonlinear-programming-spring-2003/c634cc25fd0ea9fd3616f828374e96bc_newton.pdf
 file_size: 73415
 file_type: application/pdf
 learning_resource_types:
