@@ -12,7 +12,7 @@ uid: a7fc8d07-daf1-74b5-f69e-69638dc6d97d
 
 This section contains homework assignments for the course, which consist of problems from the course textbook:
 
-Bertsekas, Dimitri. _Nonlinear Programming: 2nd Edition_. Belmont, MA: [Athena Scientific Press](http://athenasc.com/probbook.html), 1999. ISBN: 1886529000.
+Bertsekas, Dimitri. _Nonlinear Programming: 2nd Edition_. Belmont, MA: {{% resource_link "19c25155-5601-4083-9ed3-1e45afe33af7" "Athena Scientific Press" %}}, 1999. ISBN: 1886529000.
 
 Homework #1: 1.1.1, 1.1.2(b), 1.1.3, 1.1.6
 

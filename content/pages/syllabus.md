@@ -15,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: alternating weeks, 1 hour / session
 
-[Professor Dimitri P. Bertsekas](http://web.mit.edu/dimitrib/www/home.html)
+{{% resource_link "9deca349-442e-4649-b00e-01f89da0c261" "Professor Dimitri P. Bertsekas" %}}
 
 Course Description
 ------------------
@@ -25,7 +25,7 @@ A unified analytical and computational approach to nonlinear optimization proble
 Textbook
 --------
 
-Bertsekas, Dimitri. _Nonlinear Programming: 2nd Edition_. Belmont, MA: [Athena Scientific Press](http://athenasc.com/probbook.html), 1999. ISBN: 1886529000.
+Bertsekas, Dimitri. _Nonlinear Programming: 2nd Edition_. Belmont, MA: {{% resource_link "19c25155-5601-4083-9ed3-1e45afe33af7" "Athena Scientific Press" %}}, 1999. ISBN: 1886529000.
 
 Grading
 -------
